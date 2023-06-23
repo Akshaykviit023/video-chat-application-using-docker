@@ -4,7 +4,6 @@
 
 This is a video calling application built for experimenting socket. You can use this app to call other people.
 
-### [Demo](https://video-calling-app-git.netlify.app)
 
 ## Requirements
 
@@ -31,15 +30,7 @@ This is a video calling application built for experimenting socket. You can use 
 - React
 - Nodejs
 - MaterialUI
-## Contributing
 
-All contributions are welcome!
-
-## Other interesting repositories
-
-- [My Portfolio](https://github.com/knowankit/knowankit.com)
-- [Trello Clone](https://github.com/knowankit/trello-clone)
-- [React smart carousel](https://github.com/knowankit/react-smart-carousel)
 ## License
 
 This project is licensed under the **MIT license**. Feel free to edit and distribute this template as you like.
