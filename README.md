@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a video calling application built for experimenting socket. You can use this app to call other people.
+This is a video calling application built for experimenting socket. You can use this app to make video calls to other people.
 
 
 ## Requirements
